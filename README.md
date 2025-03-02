@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daksh Rajpoot</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshrajpoot)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on [Browser](https://github.com/DakshRajpoot/Nightly)
 
 - 🌱 I’m currently learning **Kotlin**
