@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Daksh Rajpoot</h1>
 <h3 align="center">A passionate frontend developer from USA</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakshrajpoot)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dakshrajpoot&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dakshrajpoota&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dakshrajpoota&show_icons=true" />
+</picture>
 
 - 🔭 I’m currently working on [Browser](https://github.com/DakshRajpoot/Nightly)
 
