@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daksh Rajpoot</h1>
-<h3 align="center">A passionate frontend developer from USA</h3>
+<h3 align="center">A passionate frontend developer from UAE</h3>
 
 <picture>
   <source
